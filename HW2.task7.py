@@ -12,3 +12,7 @@ while x>i:
     s += "*"
     i += 1
 print(s)
+
+x=input("Enter the nuber:")
+x=int(x)
+print("*"*x)
